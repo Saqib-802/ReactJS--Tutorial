@@ -1,0 +1,12 @@
+ ul{
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid #123456;
+  margin: 0;
+  padding: 10px;
+  list-style: none;
+}
+
+.header{
+  font-weight: 700;
+}
